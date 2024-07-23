@@ -2,60 +2,77 @@
 
 ## Descripción del Proyecto
 
-Este proyecto consiste en la creación de un animatrónico con forma de pulpo, desarrollado para el grupo ASME de la Universidad de La Sabana. El objetivo de este proyecto es mostrar las habilidades y conocimientos adquiridos en modelado 3D, electrónica, manufactura aditiva y programación, aplicados en la construcción de un dispositivo interactivo, en este caso la mascota de ingenieria mecanica.
+Este proyecto consiste en la creación de un animatrónico con forma de pulpo, desarrollado por el grupo ASME de la Universidad de La Sabana. El objetivo de este proyecto es demostrar las habilidades y conocimientos adquiridos en modelado 3D, electrónica, manufactura aditiva y programación, aplicados en la construcción de un dispositivo interactivo, en este caso, la mascota del programa de Ingeniería Mecánica. Este proyecto no solo busca destacar la competencia técnica de los estudiantes, sino también promover la creatividad y el trabajo en equipo.
 
 ## Contenidos
 
 - [Modelo 3D](#modelo-3d)
 - [Electrónica](#electrónica)
 - [Detalles del Proyecto](#detalles-del-proyecto)
+- [Funciones](#funciones)
 - [Reconocimientos](#reconocimientos)
 
 ## Modelo 3D
 
-El modelo 3D del animatrónico pulpo fue diseñado utilizando [nombre del software de modelado 3D]. El diseño incluye piezas móviles que permiten simular el movimiento natural de un pulpo.
+El modelo 3D base para el animatrónico fue obtenido de Maker World y posteriormente reescalado y modificado utilizando Fusion 360, un software avanzado de diseño y modelado 3D. El diseño incluye piezas móviles que permiten simular el movimiento natural de un pulpo, con dos brazos mecánicos que añaden dinamismo y realismo al modelo. Cada componente fue meticulosamente diseñado para asegurar su funcionalidad y durabilidad, teniendo en cuenta las limitaciones de la manufactura aditiva y la integración con los componentes electrónicos.
 
 ### Imágenes del Modelo 3D
 
 ![Vista frontal del modelo 3D](images/modelo_3d_frontal.jpg)
+*Vista frontal del modelo 3D del animatrónico pulpo.*
+
 ![Vista lateral del modelo 3D](images/modelo_3d_lateral.jpg)
+*Vista lateral del modelo 3D del animatrónico pulpo.*
 
 ## Electrónica
 
-La electrónica del animatrónico pulpo incluye [descripción general de los componentes electrónicos]. A continuación se detallan los principales componentes y su función en el proyecto:
+La electrónica del animatrónico pulpo es compleja y sofisticada, integrando diversos componentes para asegurar un funcionamiento óptimo. Los componentes principales incluyen un microcontrolador Arduino Nano, un módulo Bluetooth para la comunicación inalámbrica, matrices LED para las expresiones faciales, y motores controlados por un puente H para los movimientos mecánicos. A continuación se detallan los principales componentes y su función en el proyecto:
 
-- **Microcontrolador**: [Nombre del microcontrolador] para el control de los movimientos y las acciones del pulpo.
-- **Motores y actuadores**: [Descripción de los motores y actuadores utilizados].
-- **Sensores**: [Descripción de los sensores utilizados].
+- **Microcontrolador**: Utilizamos un Arduino Nano, seleccionado por su tamaño compacto y capacidad para manejar múltiples entradas y salidas, lo cual es esencial para el control preciso de los movimientos y las acciones del pulpo.
+- **Motores y actuadores**: Implementamos dos mini motoreductores para permitir el movimiento fluido de los brazos mecánicos, y dos matrices LED para crear expresiones faciales dinámicas y atractivas.
+- **Sensores y módulos adicionales**: Incorporamos un módulo Bluetooth para permitir el control remoto del animatrónico a través de una aplicación móvil, facilitando la interacción del usuario con el dispositivo.
 
 ### Esquemas y Diagramas
 
 ![Esquema del circuito](images/esquema_circuito.jpg)
+*Esquema del circuito electrónico del animatrónico pulpo.*
+
 ![Diagrama de conexión](images/diagrama_conexion.jpg)
+*Diagrama de conexión de los componentes electrónicos del animatrónico pulpo.*
 
 ## Detalles del Proyecto
 
-El proyecto fue desarrollado durante el semestre [indicar semestre] y consistió en varias etapas:
+El proyecto fue desarrollado por el grupo ASME y fue presentado durante la inauguración de la carrera de Ingeniería de Diseño e Innovación en la Universidad de La Sabana. Para lograrlo, se siguieron varias etapas cuidadosamente planificadas:
 
-1. **Investigación y planificación**: [Descripción de la fase de investigación].
-2. **Diseño y modelado**: [Descripción de la fase de diseño y modelado].
-3. **Construcción y ensamblaje**: [Descripción de la fase de construcción y ensamblaje].
-4. **Programación y pruebas**: [Descripción de la fase de programación y pruebas].
+1. **Investigación y planificación**: Durante esta fase inicial, se revisó la viabilidad del proyecto. Se investigaron las mejores prácticas en diseño de animatrónicos y se elaboró un plan detallado que abarcaba desde la conceptualización hasta la implementación final.
+2. **Diseño y modelado**: Esta fase fue crucial y una de las más largas del proyecto. Utilizamos Fusion 360 para crear un modelo 3D detallado y funcional del pulpo. Se realizaron múltiples iteraciones y verificaciones para asegurar que cada componente encajara perfectamente y funcionara según lo previsto.
+3. **Construcción y ensamblaje**: Para la manufactura de las piezas, empleamos una impresora 3D Bambu Lab P1S, que nos permitió crear componentes precisos y duraderos. El ensamblaje se llevó a cabo con cuidado, asegurando que todos los componentes mecánicos y electrónicos estuvieran correctamente integrados.
+4. **Programación y pruebas**: La programación del animatrónico fue desarrollada en Arduino, y se creó una aplicación móvil para permitir la interacción y control del dispositivo. Se realizaron pruebas exhaustivas para verificar el correcto funcionamiento de todas las funciones y asegurar la fiabilidad del animatrónico.
+
+## Funciones
+
+El animatrónico pulpo cuenta con varias funciones destacadas, diseñadas para mostrar su capacidad interactiva y atraer la atención del público. Entre las principales funciones se encuentran:
+
+- **Movimiento electrónico de los brazos**: Dos de los brazos del pulpo son controlados electrónicamente, permitiendo movimientos fluidos y realistas que simulan el comportamiento natural de un pulpo.
+- **Expresiones faciales dinámicas**: Utilizando matrices LED, el pulpo puede mostrar diversas expresiones faciales, añadiendo un nivel de interacción emocional con los espectadores.
+- **Integración de etiquetas NFC**: Se incorporaron etiquetas NFC en tres de las puntas de los tentáculos, permitiendo la interacción con dispositivos compatibles y agregando una capa adicional de interactividad.
+- **Futuras mejoras**: Aunque el proyecto no incluyó una función de voz debido a limitaciones de tiempo, se planea incorporar esta característica en el futuro para aumentar la interacción y realismo del animatrónico.
 
 ### Videos del Proyecto
 
 [![Video del animatrónico en acción](images/video_thumbnail.jpg)](videos/animatronico_accion.mp4)
+*Video demostrativo del animatrónico pulpo en acción.*
 
 ## Reconocimientos
 
 Este proyecto no hubiera sido posible sin el esfuerzo y la dedicación de los siguientes miembros del grupo ASME:
 
-- [Nombre del miembro 1]
-- [Nombre del miembro 2]
-- [Nombre del miembro 3]
-- [Nombre del miembro 4]
+- Juan Sebastián Ulloa Mejía
+- Juan David Hoyos Bernate
+- María Juliana Amezquita Herrera
+- Laura Alejandra Yepes Tobos
 
-Agradecemos también a [nombre de los profesores o mentores] por su guía y apoyo durante el desarrollo del proyecto.
+Agradecemos también a Rafael Enrique Álvarez Robles y Jorge Alberto Castellanos Rivillas por su guía y apoyo durante el desarrollo del proyecto. Su experiencia y conocimientos fueron fundamentales para el éxito de esta iniciativa.
 
 ---
 
