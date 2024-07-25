@@ -2,7 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto consiste en la creación de un animatrónico con forma de pulpo, desarrollado por el grupo ASME de la Universidad de La Sabana. El objetivo de este proyecto es demostrar las habilidades y conocimientos adquiridos en modelado 3D, electrónica, manufactura aditiva y programación, aplicados en la construcción de un dispositivo interactivo, en este caso, la mascota del programa de Ingeniería Mecánica. Este proyecto no solo busca destacar la competencia técnica de los estudiantes, sino también promover la creatividad y el trabajo en equipo.
+Este proyecto consiste en la creación de un animatrónico con forma de pulpo, desarrollado para el grupo ASME de la Universidad de La Sabana. El objetivo de este proyecto es demostrar las habilidades y conocimientos adquiridos en modelado 3D, electrónica, manufactura aditiva y programación, aplicados en la construcción de un dispositivo interactivo, en este caso, la mascota del programa de Ingeniería Mecánica. Este proyecto no solo busca destacar la competencia técnica de los estudiantes, sino también promover la creatividad y el trabajo en equipo.
 
 ## Contenidos
 
