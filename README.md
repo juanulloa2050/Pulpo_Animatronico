@@ -31,7 +31,9 @@ El modelo 3D base para el animatrónico fue obtenido de Maker World y posteriorm
 
 Para ensamblar el cuerpo del animatronico se usaron encajes, esto permite ensamblar y desensamblar con el objetivo de tener un acceso completo a la electronica del sistema
 
-insertar videos
+[insertar videos](https://youtu.be/m7w2fRdgJ1w)
+[![Video Title](https://img.youtube.com/vi/m7w2fRdgJ1w/0.jpg)](https://www.youtube.com/watch?v=m7w2fRdgJ1w)
+
 
 ### Tentaculo Mecanico
 
@@ -42,9 +44,16 @@ Esqueleto: Esta parte consta de una manguera de 9mm la cual permite que el tenta
 ![Esqueleto](Images/Esqueleto.jpg)
 *Esqueleto y manguera.*
 
+![Esqueleto-carcasa](Images/Union_esqueleto_carcasa.jpg)
+*Union esqueleto-carcasa.*
+
 Carcasa: Esta parte es basicamente estetica y esta unida a los discos gracias a tornilleria.
 
-insertar foto
+![Carcasa](Images/Carcasa.jpg)
+*Carcasa casi completa*
+
+![Ensamble](Images/Ensamble.jpg)
+*Union tentaculo-cuerpo.*
 
 ## Electrónica
 
