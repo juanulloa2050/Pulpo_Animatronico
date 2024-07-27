@@ -98,9 +98,14 @@ El animatrónico pulpo cuenta con varias funciones destacadas, diseñadas para m
 
 ### Videos del Proyecto
 
-[![Ensamble](https://img.youtube.com/vi/uywxRv7KVDI/0.jpg)](https://www.youtube.com/watch?v=uywxRv7KVDI)]
+<div align="center">
+  
+[![Ensamble](https://img.youtube.com/vi/uywxRv7KVDI/0.jpg)](https://www.youtube.com/watch?v=uywxRv7KVDI)
 
 *Video demostrativo del animatrónico pulpo en acción.*
+
+</div>
+
 
 ## Reconocimientos
 
