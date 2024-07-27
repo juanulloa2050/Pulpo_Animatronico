@@ -31,9 +31,16 @@ El modelo 3D base para el animatrónico fue obtenido de Maker World y posteriorm
 
 Para ensamblar el cuerpo del animatronico se usaron encajes, esto permite ensamblar y desensamblar con el objetivo de tener un acceso completo a la electronica del sistema
 
-[![Ensamble](https://img.youtube.com/vi/m7w2fRdgJ1w/0.jpg)](https://www.youtube.com/watch?v=m7w2fRdgJ1w)]
+
+<div align="center">
+  
+[![Ensamble](https://img.youtube.com/vi/m7w2fRdgJ1w/0.jpg)](https://www.youtube.com/watch?v=m7w2fRdgJ1w)
 
 *Ensamble cuerpo*
+
+</div>
+
+
 
 ### Tentaculo Mecanico
 
