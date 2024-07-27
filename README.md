@@ -7,7 +7,7 @@ Este proyecto consiste en la creación de un animatrónico con forma de pulpo, d
 ## Contenidos
 
 - [Modelo 3D](#modelo-3d)
-- [Modelo 3D](#ensamble)
+- [Ensamble](#ensamble)
 - [Electrónica](#electrónica)
 - [Detalles del Proyecto](#detalles-del-proyecto)
 - [Funciones](#funciones)
@@ -39,7 +39,8 @@ Para lograr un movimiento mecanico de los tentaculos empleamos un sistema de 2 p
 
 Esqueleto: Esta parte consta de una manguera de 9mm la cual permite que el tentaculo recupere su forma original, y pegado a este van varios discos cuya funcion principal es guiar un hilo de nilon que esta amarrado tanto al disco externo como a un motor, permitiendo asi la movilidad del tentaculo, ademas de esto los discos cuentan con agujeros para poner tuercas (para esto se calentaron para deformar el PLA y ademas se aplico pegante instantaneo), las cuales permiten unir el esqueleto con la carcasa.
 
-insertar fotos
+![Esqueleto](Images/Esqueleto.jpg)
+*Esqueleto y manguera.*
 
 Carcasa: Esta parte es basicamente estetica y esta unida a los discos gracias a tornilleria.
 
