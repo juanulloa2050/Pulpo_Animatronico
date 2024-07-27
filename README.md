@@ -31,7 +31,7 @@ El modelo 3D base para el animatrónico fue obtenido de Maker World y posteriorm
 
 Para ensamblar el cuerpo del animatronico se usaron encajes, esto permite ensamblar y desensamblar con el objetivo de tener un acceso completo a la electronica del sistema
 
-![Ensamble](https://img.youtube.com/vi/m7w2fRdgJ1w/0.jpg)](https://www.youtube.com/watch?v=m7w2fRdgJ1w)
+[![Ensamble](https://img.youtube.com/vi/m7w2fRdgJ1w/0.jpg)](https://www.youtube.com/watch?v=m7w2fRdgJ1w)]
 
 *Ensamble cuerpo*
 
@@ -91,7 +91,7 @@ El animatrónico pulpo cuenta con varias funciones destacadas, diseñadas para m
 
 ### Videos del Proyecto
 
-![Ensamble](https://img.youtube.com/vi/uywxRv7KVDI/0.jpg)](https://www.youtube.com/watch?v=uywxRv7KVDI)
+[![Ensamble](https://img.youtube.com/vi/uywxRv7KVDI/0.jpg)](https://www.youtube.com/watch?v=uywxRv7KVDI)]
 
 *Video demostrativo del animatrónico pulpo en acción.*
 
