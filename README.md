@@ -51,7 +51,7 @@ Esqueleto: Esta parte consta de una manguera de 9mm la cual permite que el tenta
 ![Esqueleto](Images/Esqueleto.jpg)
 *Esqueleto y manguera.*
 
-![Esqueleto-carcasa](Images/Union_esqueleto_carcasa.jpg)
+![Esqueleto-carcasa](Images/Union esqueleto carcasa.jpg)
 *Union esqueleto-carcasa.*
 
 Carcasa: Esta parte es basicamente estetica y esta unida a los discos gracias a tornilleria.
