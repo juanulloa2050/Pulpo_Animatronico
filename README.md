@@ -19,11 +19,9 @@ El modelo 3D base para el animatrónico fue obtenido de Maker World y posteriorm
 
 ### Imágenes del Modelo 3D
 
-![Vista frontal del modelo 3D](images/modelo_3d_frontal.jpg)
-*Vista frontal del modelo 3D del animatrónico pulpo.*
+![Vista isometrica del modelo 3D](images/Vista_isometrica.jpg)
+*Vista isometrica del modelo 3D del animatrónico pulpo.*
 
-![Vista lateral del modelo 3D](images/modelo_3d_lateral.jpg)
-*Vista lateral del modelo 3D del animatrónico pulpo.*
 
 ## Ensamble
 
