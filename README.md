@@ -55,27 +55,34 @@ Esqueleto: Esta parte consta de una manguera de 9mm la cual permite que el tenta
 Carcasa: Esta parte es basicamente estetica y esta unida a los discos gracias a tornilleria.
 
 ![Carcasa](Images/Carcasa.jpg)
-*Carcasa casi completa*
+*Carcasa casi completa.*
 
 ![Ensamble](Images/Ensamble.jpg)
 *Union tentaculo-cuerpo.*
 
 ## Electrónica
 
-La electrónica del animatrónico pulpo es compleja y sofisticada, integrando diversos componentes para asegurar un funcionamiento óptimo. Los componentes principales incluyen un microcontrolador Arduino Nano, un módulo Bluetooth para la comunicación inalámbrica, matrices LED para las expresiones faciales, y motores controlados por un puente H para los movimientos mecánicos. A continuación se detallan los principales componentes y su función en el proyecto:
+Para asegurar un funcionamiento óptimo y facilidad de ensamble y desensamble o reparacion se implementaron variedad de componentes electronicos en una baquela, uniendo todos los componentes dentro de esta y enlazando con los componentes externos con conectores jst. Los componentes principales incluyen un microcontrolador Arduino Nano, un módulo Bluetooth para la comunicación inalámbrica, matrices LED para las expresiones faciales, y motores controlados por un puente H para los movimientos mecánicos. A continuación se detallan los principales componentes y su función en el proyecto:
 
 - **Microcontrolador**: Utilizamos un Arduino Nano, seleccionado por su tamaño compacto y capacidad para manejar múltiples entradas y salidas, lo cual es esencial para el control preciso de los movimientos y las acciones del pulpo.
 - **Motores y actuadores**: Implementamos dos mini motoreductores para permitir el movimiento fluido de los brazos mecánicos, y dos matrices LED para crear expresiones faciales dinámicas y atractivas.
 - **Sensores y módulos adicionales**: Incorporamos un módulo Bluetooth para permitir el control remoto del animatrónico a través de una aplicación móvil, facilitando la interacción del usuario con el dispositivo.
 
+
+![Baquela](Images/Electronica.png)
+*Baquela con la electronica.*
+
+![Componentes externos](Images/Matriz_led_y_motores.png)
+*Componentes externos.*
+
 ### Plano Electrico
 
-![Plano electrico](Plano_electrico.png)
+![Plano electrico](Images/Plano_electrico.png)
 *Plano electrico del animatrónico pulpo.*
 
 ## Detalles del Proyecto
 
-El proyecto fue desarrollado por el grupo ASME y fue presentado durante la inauguración de la carrera de Ingeniería de Diseño e Innovación en la Universidad de La Sabana. Para lograrlo, se siguieron varias etapas cuidadosamente planificadas:
+El proyecto fue desarrollado para el grupo ASME y fue presentado durante la inauguración de la carrera de Ingeniería de Diseño e Innovación en la Universidad de La Sabana. Para lograrlo, se siguieron varias etapas cuidadosamente planificadas:
 
 1. **Investigación y planificación**: Durante esta fase inicial, se revisó la viabilidad del proyecto. Se investigaron las mejores prácticas en diseño de animatrónicos y se elaboró un plan detallado que abarcaba desde la conceptualización hasta la implementación final.
 2. **Diseño y modelado**: Esta fase fue crucial y una de las más largas del proyecto. Utilizamos Fusion 360 para crear un modelo 3D detallado y funcional del pulpo. Se realizaron múltiples iteraciones y verificaciones para asegurar que cada componente encajara perfectamente y funcionara según lo previsto.
@@ -89,7 +96,7 @@ El animatrónico pulpo cuenta con varias funciones destacadas, diseñadas para m
 - **Movimiento electrónico de los brazos**: Dos de los brazos del pulpo son controlados electrónicamente, permitiendo movimientos fluidos y realistas que simulan el comportamiento natural de un pulpo.
 - **Expresiones faciales dinámicas**: Utilizando matrices LED, el pulpo puede mostrar diversas expresiones faciales, añadiendo un nivel de interacción emocional con los espectadores.
 - **Integración de etiquetas NFC**: Se incorporaron etiquetas NFC en tres de las puntas de los tentáculos, permitiendo la interacción con dispositivos compatibles y agregando una capa adicional de interactividad.
-- **Futuras mejoras**: Aunque el proyecto no incluyó una función de voz debido a limitaciones de tiempo, se planea incorporar esta característica en el futuro para aumentar la interacción y realismo del animatrónico.
+- **TO DO**: Aunque el proyecto no incluyó una función de voz debido a limitaciones de tiempo, se puede incorporar esta característica en el futuro para aumentar la interacción y realismo del animatrónico.
 
 ### Videos del Proyecto
 
