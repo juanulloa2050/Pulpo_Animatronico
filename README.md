@@ -70,13 +70,10 @@ La electrónica del animatrónico pulpo es compleja y sofisticada, integrando di
 - **Motores y actuadores**: Implementamos dos mini motoreductores para permitir el movimiento fluido de los brazos mecánicos, y dos matrices LED para crear expresiones faciales dinámicas y atractivas.
 - **Sensores y módulos adicionales**: Incorporamos un módulo Bluetooth para permitir el control remoto del animatrónico a través de una aplicación móvil, facilitando la interacción del usuario con el dispositivo.
 
-### Esquemas y Diagramas
+### Plano Electrico
 
-![Esquema del circuito](images/esquema_circuito.jpg)
-*Esquema del circuito electrónico del animatrónico pulpo.*
-
-![Diagrama de conexión](images/diagrama_conexion.jpg)
-*Diagrama de conexión de los componentes electrónicos del animatrónico pulpo.*
+![Plano electrico](Plano_electrico.png)
+*Plano electrico del animatrónico pulpo.*
 
 ## Detalles del Proyecto
 
