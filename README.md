@@ -69,10 +69,10 @@ Para asegurar un funcionamiento óptimo y facilidad de ensamble y desensamble o 
 - **Sensores y módulos adicionales**: Incorporamos un módulo Bluetooth para permitir el control remoto del animatrónico a través de una aplicación móvil, facilitando la interacción del usuario con el dispositivo.
 
 
-![Baquela](Images/Electronica.png)
+![Baquela](Images/Electronica.jpg)
 *Baquela con la electronica.*
 
-![Componentes externos](Images/Matriz_led_y_motores.png)
+![Componentes externos](Images/Matriz_led_y_motores.jpg)
 *Componentes externos.*
 
 ### Plano Electrico
