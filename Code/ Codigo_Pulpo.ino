@@ -51,6 +51,9 @@ void loop() {
   if(Serial.available()>0){        // lee el mensaje enviado desde la APP bluetooth y almacena en variable estado
   estado = Serial.read();  
   if (estado =='v'){
+    mostrar_ojo_centro (); 
+      delay(demora);
+      // aqui se puede agregar codigo para que haga cuando despierte
    }
    else if (estado =='a'){
        mostrar_ojo_arri (); 
