@@ -9,6 +9,7 @@ Este proyecto consiste en la creación de un animatrónico con forma de pulpo, d
 - [Modelo 3D](#modelo-3d)
 - [Ensamble](#ensamble)
 - [Electrónica](#electrónica)
+- [APP](#APP)
 - [Detalles del Proyecto](#detalles-del-proyecto)
 - [Funciones](#funciones)
 - [Reconocimientos](#reconocimientos)
@@ -79,6 +80,24 @@ Para asegurar un funcionamiento óptimo y facilidad de ensamble y desensamble o 
 
 ![Plano electrico](Images/Plano_electrico.png)
 *Plano electrico del animatrónico pulpo.*
+
+## APP
+
+### Versión Inicial: App "PULPI" con App Inventor
+
+Para el control del prototipo del pulpo animatrónico, se desarrolló inicialmente una aplicación móvil denominada **"PULPI"** utilizando la plataforma **App Inventor**. Esta herramienta permitió una creación rápida y sencilla de la interfaz de usuario y la lógica básica necesaria para el control del animatrónico. 
+
+#### Funcionamiento de la Aplicación
+
+_(Descripción del funcionamiento de la aplicación con App Inventor: incluir aquí detalles sobre la interfaz, los controles disponibles y cómo se interactúa con el pulpo animatrónico)_
+
+### Versión 2.0: Migración a Android Studio
+
+Con el objetivo de mejorar la funcionalidad, el rendimiento y la personalización de la aplicación, se desarrolló la versión 2.0 **"Octopus app"** utilizando **Android Studio**. Esta nueva versión permite integrar características más avanzadas, optimizar la experiencia del usuario y proporcionar una interfaz más moderna y funcional, esto no lo explotamos en su maximo sin embargo en la seccion app se encuentra tanto el apk como el proyecto comprido para permitir su modificacion.
+
+#### Funcionamiento de la Aplicación
+
+
 
 ## Detalles del Proyecto
 
