@@ -127,6 +127,14 @@ El animatrónico pulpo cuenta con varias funciones destacadas, diseñadas para m
 
 </div>
 
+<div align="center">
+  
+[![Ensamble](https://img.youtube.com/vi/k0liOq-w1WY3ZIE8/0.jpg)](https://www.youtube.com/watch?v=k0liOq-w1WY3ZIE8)
+
+*Video demostrativo del NFC dek pulpo en acción.*
+
+</div>
+
 
 ## Reconocimientos
 
