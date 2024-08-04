@@ -89,7 +89,13 @@ Para el control del prototipo del pulpo animatrónico, se desarrolló inicialmen
 
 #### Funcionamiento de la Aplicación
 
-_(Descripción del funcionamiento de la aplicación con App Inventor: incluir aquí detalles sobre la interfaz, los controles disponibles y cómo se interactúa con el pulpo animatrónico)_
+![Interfaz inicial pulpi](Images/Pulpi.png)
+*Interfaz inicial pulpi.*
+
+![Interfaz pulpi](Images/Pulpi_2.png)
+*Interfaz pulpi.*
+
+Al pasar a esta segunda interfaz, es necesario oprimir el boton de despertar dos veces, despues de esto ya se podra usar todos los botones con normalidad
 
 ### Versión 2.0: Migración a Android Studio
 
@@ -97,7 +103,8 @@ Con el objetivo de mejorar la funcionalidad, el rendimiento y la personalizació
 
 #### Funcionamiento de la Aplicación
 
-
+![Interfaz Octopus app](Images/Octopus_app.png)
+*Interfaz Octopus app.*
 
 ## Detalles del Proyecto
 
