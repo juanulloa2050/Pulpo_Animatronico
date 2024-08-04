@@ -89,10 +89,10 @@ Para el control del prototipo del pulpo animatrónico, se desarrolló inicialmen
 
 #### Funcionamiento de la Aplicación
 
-![Interfaz inicial pulpi](Images/Pulpi.png)
+![Interfaz inicial pulpi](Images/Pulpi.jpg)
 *Interfaz inicial pulpi.*
 
-![Interfaz pulpi](Images/Pulpi_2.png)
+![Interfaz pulpi](Images/Pulpi_2.jpg)
 *Interfaz pulpi.*
 
 Al pasar a esta segunda interfaz, es necesario oprimir el boton de despertar dos veces, despues de esto ya se podra usar todos los botones con normalidad
@@ -103,7 +103,7 @@ Con el objetivo de mejorar la funcionalidad, el rendimiento y la personalizació
 
 #### Funcionamiento de la Aplicación
 
-![Interfaz Octopus app](Images/Octopus_app.png)
+![Interfaz Octopus app](Images/Octopus_app.jpg)
 *Interfaz Octopus app.*
 
 ## Detalles del Proyecto
